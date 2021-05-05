@@ -23,7 +23,7 @@ const App = () => (
       <CssBaseline />
       <AppBar position="static">
         <Toolbar>
-          <Typography variant="h6">Opinion Ate</Typography>
+          <Typography variant="h6">Where to eat</Typography>
         </Toolbar>
       </AppBar>
       <Container>
