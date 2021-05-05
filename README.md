@@ -2,7 +2,8 @@
 
 An app for tracking reviews of dishes at different restaurants.
 
-Production: https://opinion-ate-react-3mil.netlify.app
+Production: https://happy-mcnulty-327d13.netlify.app
+
 
 Dependencies are locked with a `yarn.lock` file, so please use `yarn` and not
 `npm` for installing them.
